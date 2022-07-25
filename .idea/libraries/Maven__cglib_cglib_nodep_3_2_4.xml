@@ -2,6 +2,14 @@
   <library name="Maven: cglib:cglib-nodep:3.2.4">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-18.0.2/lib/javafx.web.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4-javadoc.jar!/" />
